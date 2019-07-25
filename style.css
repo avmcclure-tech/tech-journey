@@ -1,3 +1,7 @@
+body {
+ font-family: 'Bonbon', cursive; 
+}
+
 header {
   padding: 30px;
   background: #21d0b9;
@@ -6,6 +10,7 @@ header {
   background-attachment: fixed;
   background-position: center;
   height: 100%;
+  font-family: 'Geostar', cursive;
 }
 
 main {
